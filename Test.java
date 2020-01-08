@@ -23,8 +23,6 @@ public class Test
         Person p= new Person ("Lobo", 33);
         System.out.println (p.getName ());
         
-        Person p =new Person ("Zina",23);
-        System.out.println (p.getName ());
-
+        System.out.println("Zina Jamal 20160363");
     }
 }
